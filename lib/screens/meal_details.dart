@@ -21,6 +21,7 @@ class MealDetails extends StatelessWidget {
               onToggleFavorite(meal);
             },
             icon: Icon(Icons.star),
+            
           ),
         ],
       ),
