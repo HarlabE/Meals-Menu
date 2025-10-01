@@ -68,7 +68,6 @@ class MainDrawer extends StatelessWidget {
                 fontSize: 24,
               ),
             ),
-            trailing: Text('lorem'),
             onTap: () {
               onSelectScreen('filters');
             },
